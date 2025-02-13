@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    /* background-color: #f0f4f8; */
+    background-image: url("../images/welcome-page-img.jpg");
+    background-size: cover;
+}
+
+.output-container {
+    width: 80%;
+    max-width: 600px;
+    padding: 20px;
+    background-color: #9eb9d1;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: left;
+}
+
+.output-container h2 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.code-box {
+    padding: 15px;
+    background-color: #282c34;
+    color: #ffffff;
+    border-radius: 8px;
+    overflow-x: auto;
+    max-height: 400px; /* Limit height for scrolling if code is long */
+}
+
+pre {
+    white-space: pre-wrap; /* Allow line wrapping */
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    line-height: 1.5;
+}
+
+.code-box code {
+    color: #61dafb; /* Code color styling */
+}

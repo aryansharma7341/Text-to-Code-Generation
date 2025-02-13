@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text-to-Code Prompt Input</title>
+    <link rel="stylesheet" href="./static/css/input.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Enter your text prompt</h2>
+        <p>Describe what your code need</p>
+        <form id="promptForm" action="/Query_And_Code" method="post">
+            <!-- <label for="promptInput">Enter your prompt:</label> -->
+            <textarea id="promptInput" placeholder="Type your prompt here..." name="input_query" required style="background-color: rgb(202, 227, 231);"></textarea>
+            <button type="submit">Submit</button>
+        </form>
+        <p id="responseOutput"></p> <!-- Display response or result here -->
+    </div>
+
+    
+</body>
+</html>
