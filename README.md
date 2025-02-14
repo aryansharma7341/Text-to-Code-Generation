@@ -72,7 +72,7 @@
 
 <h2>🎥 Demo</h2>
 
-📺 **Watch the full demo here:** <a href="https://www.youtube.com/watch?v=your-video-link">YouTube Video</a>
+📺 **Watch the full demo here:** <a href="https://www.youtube.com/watch?v=your-video-link">Demo Video</a>
 
 <p align="center">
   <img src="https://your-image-link-here.com/demo.gif" alt="Demo GIF" width="75%"/>
