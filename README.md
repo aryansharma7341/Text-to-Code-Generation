@@ -65,17 +65,23 @@
 <h2>🏗️ System Architecture</h2>
 
 <p align="center">
-  <img src="https://your-image-link-here.com/architecture.png" alt="System Architecture" width="75%"/>
+
+  **Model Architecture**
+  
+  <img src="https://github.com/aryansharma7341/Text-to-Code-Generation/blob/main/Documentation/f8b904da-2aaa-4b73-85cd-a8adfacce042.png" alt="Model Architecture" width="75%"/>
+
+  **Pegasus Training Process**
+  
+  <img src="https://github.com/aryansharma7341/Text-to-Code-Generation/blob/main/Documentation/image1.gif" alt="Pegasus Training Process" width="75%"/>
 </p>
 
 ---
 
 <h2>🎥 Demo</h2>
 
-📺 **Watch the full demo here:** <a href="https://github.com/aryansharma7341/Text-to-Code-Generation/blob/main/Documentation/Text%20to%20Code.mp4">YouTube Video</a>
-
+📺 **Watch the project demo here:** 
 <p align="center">
-  <img src="https://your-image-link-here.com/demo.gif" alt="Demo GIF" width="75%"/>
+  <img src="https://github.com/aryansharma7341/Text-to-Code-Generation/blob/main/Documentation/Text%20to%20Code.gif" alt="Demo GIF" width="75%"/>
 </p>
 
 ---
