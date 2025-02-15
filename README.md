@@ -67,12 +67,14 @@
 <p align="center">
 
   **Model Architecture**
-  
-  <img src="https://github.com/aryansharma7341/Text-to-Code-Generation/blob/main/Documentation/f8b904da-2aaa-4b73-85cd-a8adfacce042.png" alt="Model Architecture" width="75%"/>
+  <p align="center">
+    <img src="https://github.com/aryansharma7341/Text-to-Code-Generation/blob/main/Documentation/f8b904da-2aaa-4b73-85cd-a8adfacce042.png" alt="Model Architecture" width="75%"/>
+  </p>
 
   **Pegasus Training Process**
-  
-  <img src="https://github.com/aryansharma7341/Text-to-Code-Generation/blob/main/Documentation/image1.gif" alt="Pegasus Training Process" width="75%"/>
+  <p align="center">
+    <img src="https://github.com/aryansharma7341/Text-to-Code-Generation/blob/main/Documentation/image1.gif" alt="Pegasus Training Process" width="75%"/>
+  </p>
 </p>
 
 ---
