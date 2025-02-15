@@ -23,7 +23,7 @@
   <li>🔹 Trained on a dataset of <strong>18,000+ text-code pairs</strong></li>
 </ul>
 
-📄 **For more details**, check the <a href="(https://github.com/aryansharma7341/Text-to-Code-Generation/blob/main/Documentation/Text_to_Code_Generator(Major_Project-01)_Group_Number_12.pdf)">Documentation</a>.
+📄 **For more details**, check the <a href="https://github.com/aryansharma7341/Text-to-Code-Generation/blob/main/Documentation/Text_to_Code_Generator(Major_Project-01)_Group_Number_12.pdf">Documentation</a>.
 
 ---
 
@@ -72,7 +72,7 @@
 
 <h2>🎥 Demo</h2>
 
-📺 **Watch the full demo here:** <a href="(https://github.com/aryansharma7341/Text-to-Code-Generation/blob/main/Documentation/Text%20to%20Code.mp4)">YouTube Video</a>
+📺 **Watch the full demo here:** <a href="https://github.com/aryansharma7341/Text-to-Code-Generation/blob/main/Documentation/Text%20to%20Code.mp4">YouTube Video</a>
 
 <p align="center">
   <img src="https://your-image-link-here.com/demo.gif" alt="Demo GIF" width="75%"/>
