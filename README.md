@@ -23,7 +23,7 @@
   <li>🔹 Trained on a dataset of <strong>18,000+ text-code pairs</strong></li>
 </ul>
 
-📄 **For more details**, check the <a href="https://github.com/aryansharma7341/Text-to-Code-Generation/tree/main/Documentation">Documentation</a>.
+📄 **For more details**, check the <a href="(https://github.com/aryansharma7341/Text-to-Code-Generation/blob/main/Documentation/Text_to_Code_Generator(Major_Project-01)_Group_Number_12.pdf)">Documentation</a>.
 
 ---
 
