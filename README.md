@@ -72,7 +72,7 @@
 
 <h2>🎥 Demo</h2>
 
-📺 **Watch the full project video here:** <a href="(https://github.com/aryansharma7341/Text-to-Code-Generation/blob/main/Documentation/Text%20to%20Code.mp4)">Project Video</a>
+📺 **Watch the full demo here:** <a href="(https://github.com/aryansharma7341/Text-to-Code-Generation/blob/main/Documentation/Text%20to%20Code.mp4)">YouTube Video</a>
 
 <p align="center">
   <img src="https://your-image-link-here.com/demo.gif" alt="Demo GIF" width="75%"/>
