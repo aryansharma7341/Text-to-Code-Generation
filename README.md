@@ -1,4 +1,4 @@
-<h1 align="center">🔠➡️💻 Text-to-Code Generation using Deep Learning</h1>
+<h1 align="center">🔠➡️💻 Text-to-Code Generation</h1>
 
 <p align="center">
   <i>Transform natural language instructions into executable Python code using NLP & Large Language Models</i>
